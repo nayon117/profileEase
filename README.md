@@ -1,8 +1,22 @@
-# React + Vite
+# User Profile Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive **User Profile Component** built with React and Tailwind CSS. It features a tabbed content section and an image gallery with the ability to upload images. The component is optimized for both desktop and mobile views.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Tabbed Section:** Switch between "About Me", "Experience", and "Recommended" tabs to display different content.
+- **Image Gallery:** View images in a scrollable gallery, with options to add new images from local files.
+- **Responsive Design:** Optimized for both desktop and mobile views.
+  
+## Technology Stack
+
+- **React:** Used for building the user interface components.
+- **Tailwind CSS:** Utilized for quick and responsive styling.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/user-profile-component.git
+
+All rights reserved by Hasibul Hasan Nayon
